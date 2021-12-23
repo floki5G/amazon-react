@@ -1,0 +1,21 @@
+
+.subnavbar{
+    margin-top: 65px;
+    box-sizing: border-box;
+    height: 40px;
+    background-color: rgb(43, 42, 42);
+    color: white;
+}
+.subnavbar-menu{
+    margin: 0px 0px 0px 5px;
+    background-color: rgb(43, 42, 42);
+    color: white;
+border: none;
+}
+
+.subnavbar-titel{
+display: flex;
+}
+.subnavbar-titel div{
+    padding: 5px;   
+    }

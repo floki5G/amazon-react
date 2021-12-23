@@ -1,0 +1,38 @@
+.home{
+    display: flex;
+    background-color: rgb(218, 218, 218);
+    flex-direction: column;
+    width: 100%;
+}
+.home-img{
+    width: 100%;
+    margin-bottom: -22%;
+    mask-image: linear-gradient(to bottom , rgba(0,0,0,1),rgba(0,0,0,0));
+}
+.home-row{
+    display: flex;
+    z-index: 1;
+    justify-content: space-evenly;
+margin-top:42px;
+}
+.home-arrow{
+    color: black;
+    position: absolute;
+    z-index: 1;
+    transform: scale(2, 3);
+    height: 70px;
+    align-items: center;
+    margin-top: 83px;
+    border: none;
+    background: none;
+}
+.home-arrow:hover{
+border:1px solid whitesmoke;
+border-radius: 2px;
+}
+.img1{
+    left: 25px;
+}
+.img2{
+    right: 25px;
+}

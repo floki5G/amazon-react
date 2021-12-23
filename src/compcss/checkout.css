@@ -1,0 +1,24 @@
+.checkout{
+    background-color: whitesmoke;
+}
+
+.checkout-bg_white{
+    background-color: white;
+}
+
+.checkout-left-inside-button button{
+    padding:0px 10px;
+    border: none;
+    background:none;
+    border-right: 1px solid;
+}
+.checkout-left-inside-button-qty{
+height: 30px;
+width: 60px;
+}
+.checkout-right{
+    box-sizing: border-box;
+}
+.checkout-right-btn{
+    width: 100%;
+}

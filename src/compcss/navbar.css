@@ -1,0 +1,60 @@
+.navbar{
+  margin-top: -65px;
+
+  box-sizing: border-box;
+  width: 100%;
+  background-color: black;
+  color: white;
+  position: fixed;
+  z-index: 2;
+  height: 65px;
+}
+.navbar-logo{
+align-items: center;
+text-align: center;
+}
+.navbar-logo img{
+  width: 65%;
+  object-fit: cover;
+  }
+  
+.navbar-search{
+  margin-top:8px;
+  height: 40px;
+
+}
+  .navbar-searchInp{
+  width: 80%;
+}
+.navbar-all button{
+  background-color: rgb(180, 179, 179);
+  border: none;
+  height:100%;
+}
+.navbar-searchInp{
+ border: none;
+}
+.navbar-searchIcon{
+  border: none;
+  background-color: #cd9042;
+}
+.navbar-lang{
+  height: 40px;
+  align-items: center;
+}
+.navbar-cart{
+  color: white;
+}
+.navbar-option-header{
+  display: flex;
+  flex-direction: column;
+
+}
+#navbar-cart{
+  font-size: 24px;
+  margin-right: 8px;
+}
+.filterDropDown{
+  position: absolute;
+  z-index: 3;
+}

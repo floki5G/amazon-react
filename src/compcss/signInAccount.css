@@ -1,0 +1,15 @@
+.singInAccount{
+    position: fixed;
+    z-index: 2;
+    background-color: white;
+    right: 20px;
+    top:7%;
+    box-shadow: 0px 0px 35px 10px #888888;
+}
+.singInAccount-button button{
+    border: none;
+    background-color: yellow;
+    width:40%;
+    height: 30px;
+    border-radius:5px ;
+}

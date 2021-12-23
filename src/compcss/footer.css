@@ -1,0 +1,10 @@
+.footer{
+    align-self: center;
+}
+
+.footer-info{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    justify-content: space-around;
+ 
+}
